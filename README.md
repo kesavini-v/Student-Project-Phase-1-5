@@ -36,7 +36,7 @@ npm run dev
 Access the App
 
 Open your browser and go to:
-`http://localhost:5173/
+`http://localhost:3000/
 
  Folder Structure
 
